@@ -7,6 +7,7 @@ gui.title("GUI Project")
 gui.geometry("1200x800")
 gui.configure(bg='grey')
 
+#
 def startButtonClick():
     startbutt.place_forget()
     creditbutt.place_forget()
