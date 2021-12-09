@@ -19,7 +19,7 @@ startbutt.place(x=100, y=300)
 #this is just a test idk how this works
 creditbutt = tk.Button(gui, text='CREDITS', font=("times",20,"italic"),width=30, height=4)
 creditbutt.place(x=100, y=500)
-
+# test number 2
 instructionbutt = tk.Button(gui, text='INSTRUCTIONS', font=("times",20,"italic"),width=30, height=4)
 instructionbutt.place(x=645, y=300)
 
